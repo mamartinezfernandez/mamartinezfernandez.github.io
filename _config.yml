@@ -1,2 +1,7 @@
+# Configurable start
+
 theme: jekyll-theme-cayman
-title: "my site"
+title: "SAP Cloud"
+description: "Some tips and materials for developing and extending SAP applications in a Cloud."
+url: "https://mmartinezfernandez.github.io"
+signoff: "Manuel"
