@@ -1,8 +1,8 @@
 # Configurable start
 
 theme: jekyll-theme-cayman
-title: "SAP Cloud"
+title: "SAP Business Technology Platform"
 description: "Some tips and materials for developing and extending SAP applications in a Cloud."
-url: "https://mmartinezfernandez.github.io"
+url: "https://mamartinezfernandez.github.io"
 signoff: "Manuel"
-github_username:  mmartinezfernandez
+github_username:  mamartinezfernandez
